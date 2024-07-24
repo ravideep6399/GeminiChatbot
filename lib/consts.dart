@@ -1,3 +1,3 @@
 // ignore: constant_identifier_names
-const String GEMIN9APi = "AIzaSyCHkGOSBBKGcq0Puq4rWKm2eqWix8VQv2k";
+const String GEMIN9APi = "Generate Your Own Api Key";
 const String imageText = "Describe this Picture?";
